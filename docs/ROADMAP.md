@@ -8,3 +8,8 @@
 3. SPEC-20261123-1613-sanitize-markdown-xss
 4. SPEC-20261123-1613-validate-resource-ids
 5. SPEC-20261123-1613-api-error-handler
+6. SPEC-20261123-1640-simulation-page-autostart
+7. SPEC-20261123-1640-agent-memory-round-limits
+8. SPEC-20261123-1640-zep-ingestion-resilience
+9. SPEC-20261123-1640-report-default-locale
+10. SPEC-20261123-1640-simulated-hours-progress
