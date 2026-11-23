@@ -13,3 +13,5 @@
 8. SPEC-20261123-1640-zep-ingestion-resilience
 9. SPEC-20261123-1640-report-default-locale
 10. SPEC-20261123-1640-simulated-hours-progress
+11. SPEC-20261123-1937-run-completion-deadlock
+12. SPEC-20261123-1937-report-interview-env-lifecycle
